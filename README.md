@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![dhruza88's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruza88)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruza88)](https://github.com/anuraghazra/github-readme-stats)
