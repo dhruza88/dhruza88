@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: davidhruza@gmail.com
 -->
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruza88)](https://github.com/anuraghazra/github-readme-stats)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruza88&show_icons=true&theme=radical)
