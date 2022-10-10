@@ -10,7 +10,8 @@
 
 👯 I’m looking to collaborate on most Full Stack Developments...
 
-📫 How to reach me: davidhruza@gmail.com
+📫 How to reach me: davidhruza@gmail.com or LinkedIn: https://www.linkedin.com/in/david-hruza-860699159/
+
 
 
 
